@@ -7,7 +7,20 @@
 		<key>Samples.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>76D9F82125F8B6D300F48241</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>76D9F85325F8C4CD00F48241</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
